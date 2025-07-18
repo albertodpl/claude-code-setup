@@ -1,7 +1,7 @@
 # Git commit
 This command helps you select the files to commit, create a commit message, and commit it to the local git repository.
 
-# Usage
+## Usage
 '/commit' - Commit all the changed files to the local git repository.
 '/commit <Instructions>' - Commit the selected files to the local git repository following the instructions passed to the command.
 
