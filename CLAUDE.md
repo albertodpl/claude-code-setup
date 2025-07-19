@@ -51,7 +51,6 @@ When working with this system:
 
 2. **File Naming Conventions**:
    - Daily capture files: `YYYY-MM-DD Capture.md`
-   - Project/Area folders: Prefixed with `P -` (personal) or `AT -` (Atlassian work)
    - Zettelkasten notes: `YYYYMMDDHHMM ID.md` format
 
 3. **Task Management Workflow**:
