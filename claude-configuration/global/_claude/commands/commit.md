@@ -11,7 +11,8 @@ This command helps you select the files to commit, create a commit message, and 
 3. Commit the files to the local git repository.
 
 ## Commit message format
-Do not mention Claude or Claude Code as a co-author in the commit message.
+- Do not mention Claude or Claude Code as a co-author in the commit message.
+- Do not mention code formatting fixes in the commit message.
 
 ### Example commit message
 Update hero section content and button layout
